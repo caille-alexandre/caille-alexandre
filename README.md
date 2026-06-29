@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Design System<br>
+🔭 Working on Design System<br>
 🌱 I’m currently learning Design Engineering, AI and code
 
 
